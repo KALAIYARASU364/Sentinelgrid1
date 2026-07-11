@@ -1,0 +1,6 @@
+{
+  "name": "SentinelGrid",
+  "description": "A compound risk detection agent for industrial plant safety that identifies dangerous co-occurrences across independent data streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
